@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="badges">
- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ehafiane)](https://github.com/oakoudad/badge42" alt="My 42 stats" /></a>
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ehafiane" alt="My 42 stats" /></a>
 </div>
  </div> 
  
