@@ -61,18 +61,18 @@
   <p> ft_printf:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   libft:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; get_next_line:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Born2beroot:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; so_long  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; push swap<p/>
  <p float="left">
   <img src="https://media.giphy.com/media/XnvsZKYROFLHXCc9jk/giphy.gif" width="100" />
- <img src="https://media.giphy.com/media/3ck0CjVQBAvwaJiKEL/giphy.gif" width="100" />
+   <img src="https://media.giphy.com/media/3ck0CjVQBAvwaJiKEL/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/3ck0CjVQBAvwaJiKEL/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/dFSDDutkscTkp9bMo8/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/3ck0CjVQBAvwaJiKEL/giphy.gif" width="100" />
   <img src="https://media.giphy.com/media/XnvsZKYROFLHXCc9jk/giphy.gif" width="100" />
 </p>
-    <p> minitalk :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!--   philosopher: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   minishell: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   cub3d:<p/>
- <p float="left">   -->
+    <p> minitalk :  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   philosopher: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   minishell: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   cub3d:<p/>
+ <p float="left">  
   <img src="https://media.giphy.com/media/3ck0CjVQBAvwaJiKEL/giphy.gif" width="100" />
-    <!-- <img src="https://media.giphy.com/media/3ck0CjVQBAvwaJiKEL/giphy.gif" width="100" />
+   <img src="https://media.giphy.com/media/3ck0CjVQBAvwaJiKEL/giphy.gif" width="100" />
      <img src="https://media.giphy.com/media/XnvsZKYROFLHXCc9jk/giphy.gif" width="100" />
-    <img src="https://media.giphy.com/media/dFSDDutkscTkp9bMo8/giphy.gif" width="100" /> -->
+    <img src="https://media.giphy.com/media/dFSDDutkscTkp9bMo8/giphy.gif" width="100" />
 </p>
   
 
